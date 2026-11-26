@@ -61,6 +61,20 @@ Upcoming implementation phases:
 - Joiner-Mover-Leaver (JML) lifecycle scenarios
 - Access reviews and audit documentation
 
+## Implementation Evidence
+
+### 1. Department-Based Groups
+
+Five department groups configured in the SecureTech realm.
+
+![Department Groups](IAM%20Project%20ss1.png)
+
+### 2. Realm Role Configuration
+
+Five custom department roles created in Keycloak.
+
+![Realm Roles](IAM%20project%20ss2.png)
+
 ## Learning Outcomes
 
 This project provides practical exposure to identity administration, centralized access management, group-role mapping, RBAC configuration, and identity governance concepts.
